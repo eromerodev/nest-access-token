@@ -1,5 +1,5 @@
-# Access Token API
-REST API that generates JWT access tokens
+# JWT Service API (Auth)
+REST API that generate an access token using the `@nestjs/jwt` package.
 
 ## Table of Content
 
