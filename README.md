@@ -23,15 +23,15 @@ REST API  with `NestJS` that generates JWT access tokens
 The core technology stack in this project is based on NestJS framework.
 
 - `node`: v19.7.0
-- `npm`: version 9.5.0
-- `nestjs`: version 9.2.0
+- `npm`: 9.5.0
+- `nestjs`: 9.2.0
 
 For the complete list of dependencies refer to `Package.json` file.
 
 ---
 ## Local Usage
 
-In this section, you will see the tools required and steps to setup development environment for this project.
+In this section you will see the tools required and steps to setup development environment for this project.
 
 
 ### **Installation**
@@ -46,7 +46,7 @@ node --version
 
 2. Clone the project repository 
 3. Go into the project root folder
-4. Installing project dependencies
+4. Run `npm i` to install project dependencies
 
 ```bash
 npm i
